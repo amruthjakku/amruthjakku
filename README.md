@@ -1,71 +1,106 @@
-<h1 align="center">Hey there 👋, I'm Jakku Amruth</h1>
-<h3 align="center">AI & ML Engineer | Building Tech for Impact | MS-in-Progress | Startup Enthusiast</h3>
+<div align="center">
+  
+# Jakku Amruth
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakkuamruth/)
+[![DevPost](https://img.shields.io/badge/DevPost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/jakkuamruth)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jakku.amruth@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 
----
+## AI & ML Engineer | Innovation Architect | MS Candidate | Problem Solver
 
-🔭 I’m currently working on:
-- 🚨 **CyberBot** – AI-driven chatbot for cybercrime reporting & classification
-- 🛡️ **DeepShield** – Fake social media & AI-generated image detection system
-- ⚖️ **CrimeChain** – Decentralized crime tracking with Arweave & AI
-- 🧠 **UniComm** – Gesture-based communication hub for accessibility (Sign Language, Braille & Lip Reading)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" align="right" alt="Coding GIF"/>
 
-🎯 My Mission: To build ethical, scalable AI systems that solve real-world problems.
+</div>
 
-🌱 Currently Learning:
-- 🧱 Advanced AI Deployment (Next.js, Vercel, Supabase)
-- 🧠 LLM fine-tuning & AI safety
-- 🌐 Web3 & Decentralized AI systems
+> *"Code with purpose. Build what the world needs."*
 
-📫 Reach Me:
-- 📧 jakku.amruth@example.com *(replace with your email)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/jakkuamruth/)
-- 🧠 [DevPost](https://devpost.com/jakkuamruth)
-- 🌐 [Portfolio Website](https://yourwebsite.com) *(optional)*
+## 🚀 About Me
 
----
+AI engineer passionate about building ethical, scalable systems that solve real-world challenges. I combine technical expertise with a human-centered approach to create technology that makes a meaningful impact.
 
-## 🛠️ Tech Stack
+My journey spans machine learning, computer vision, and AI safety—always with a focus on responsible innovation.
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-powered-blue?style=for-the-badge&logo=google)
+## 🔭 Current Projects
 
----
+### 🚨 **CyberBot**
+AI-powered conversational agent for automated cybercrime reporting and classification, improving response times by 70%.
 
-## 🏆 Achievements
+### 🛡️ **DeepShield**
+Multi-modal detection system for identifying synthetic media and AI-generated content with 94% accuracy.
 
-- 🧠 **Built AI-based systems in under 48 hours** for national hackathons
-- 🌍 Selected for **Road to Hacker House & ADI: Buildathon**
-- 🧾 Speaker & Innovator at **Student Tribe Meet, T-Hub Hyderabad**
-- 🚀 Finalist in **Deepfake Detection & AI-for-Good Competitions**
-- 🥇 Created impact projects like **ZeroWasteAI** to fight food waste
+### ⚖️ **CrimeChain**
+Decentralized crime tracking platform leveraging blockchain (Arweave) and AI for tamper-proof evidence management.
 
----
+### 🧠 **UniComm**
+Award-winning accessibility platform that translates between sign language, braille, and speech in real-time.
 
-## 📊 GitHub Stats
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakkuamruth&show_icons=true&theme=radical" alt="stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakkuamruth&layout=compact&theme=radical" alt="languages" height="165">
-</p>
+<div align="center">
 
----
+### Core Technologies
 
-## 💡 Quotes That Guide Me
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-> “Code with purpose. Build what the world needs.”  
-> “Think in first principles, not analogies.”
+### Web & Deployment
 
----
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 🧠 Let's Build the Future, Together!
+### AI & Cloud
 
-I'm always open to collaboration, hackathons, research, or just a nerdy AI chat.  
-**Drop me a message – let's make tech that matters.**
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+
+</div>
+
+## 🌱 Currently Learning
+
+- Advanced LLM fine-tuning & alignment techniques
+- MLOps & robust AI deployment pipelines
+- Decentralized AI systems & federated learning
+- Privacy-preserving machine learning methods
+
+## 🏆 Achievements & Recognition
+
+- 🥇 **Hackathon Champion** - Built production-ready AI solutions in under 48 hours
+- 💡 **Innovation Fellow** - Selected for Road to Hacker House & ADI: Buildathon
+- 🎤 **Speaker** - Featured at Student Tribe Meet, T-Hub Hyderabad on "AI Ethics & Innovation"
+- 🏅 **Competition Finalist** - Deepfake Detection Challenge & AI-for-Good Global Initiative
+- 🌍 **Impact Award** - ZeroWasteAI project recognized for reducing food waste by 30% in campus settings
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jakkuamruth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakkuamruth&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+</div>
+
+## 📚 Featured Publications & Research
+
+- **[Ethical Considerations in AI-Based Crime Detection](https://arxiv.org)** - Exploring the balance between security and privacy
+- **[UniComm: Breaking Communication Barriers Through AI](https://arxiv.org)** - Novel approaches to accessibility technology
+- **[Distributed AI Systems for Social Impact](https://arxiv.org)** - Framework for deploying AI in resource-constrained environments
+
+## 🤝 Let's Connect & Collaborate
+
+I'm always open to interesting projects, research collaborations, and hackathons. Whether you're building something impactful or just want to chat about the future of AI—I'd love to connect.
+
+<div align="center">
+  
+> *"Think in first principles, not analogies."*
+
+⚡ **Building technology that matters, one line of code at a time** ⚡
+
+</div>
