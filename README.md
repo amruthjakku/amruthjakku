@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amruthjakku/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://devpost.com/jakkuamruth"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" /></a>&nbsp;
-  <a href="mailto:jakku.amruth@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://devpost.com/amruthjakku"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" /></a>&nbsp;
+  <a href="mailto:amruthjakku@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-54B0BD?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
@@ -95,7 +95,7 @@
 
 <div align="center">
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jakkuamruth&skills=JavaScript,TypeScript,React,Python,Pytorch,TensorFlow,Next.js,Docker,AWS&width=820" width="820px" alt="Jakku's Skills Chart"/>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=amruthjakku&skills=JavaScript,TypeScript,React,Python,Pytorch,TensorFlow,Next.js,Docker,AWS&width=820" width="820px" alt="Jakku's Skills Chart"/>
 
 </div>
 
@@ -216,8 +216,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakkuamruth&show_icons=true&count_private=true&hide=prs,issues&theme=vue-dark" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakkuamruth&theme=vue-dark" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amruthjakku&show_icons=true&count_private=true&hide=prs,issues&theme=vue-dark" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amruthjakku&theme=vue-dark" height="170px"/>
 </div>
 
 ---
