@@ -83,8 +83,8 @@ Award-winning accessibility platform that translates between sign language, brai
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakkuamruth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakkuamruth&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amruthjakku&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amruthjakku&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
 ## 📚 Featured Publications & Research
