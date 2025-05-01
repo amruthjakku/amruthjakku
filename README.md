@@ -1,190 +1,24 @@
-<!-- The Matrix-inspired GitHub Profile - Digital Rain Theme -->
-
-<div align="center">
-  
-![Digital Rain Line](https://capsule-render.vercel.app/api?type=waving&color=0:3cb371,100:000000&height=200&section=header&text=JAKKU%20AMRUTH&fontSize=65&fontColor=00FF41&animation=fadeIn&fontAlignY=35)
-
-<img src="https://readme-typing-svg.demolab.com?font=Matrix&size=32&duration=2500&pause=300&color=00FF41&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Reality+Architect;Digital+Innovation+Hacker;System+Builder" alt="Typing SVG" />
-
-</div>
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-## `> SYSTEM PROFILE:`
-
-```ascii
---------------------------------------------------------------------------------
-| IDENTITY: Jakku Amruth                                                       |
-| MISSION: Building advanced AI systems that solve real-world problems         |
-| STATUS: Operational // Continuous Learning // System Optimization in Progress |
---------------------------------------------------------------------------------
-```
-
-<div align="center">
-  <a href="https://linkedin.com/in/amruthjakku"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"></a>
-  <a href="https://devpost.com/amruthjakku"><img src="https://img.shields.io/badge/-DevPost-000000?style=for-the-badge&logo=devpost&logoColor=00FF41"></a>
-  <a href="mailto:amruthjakku@egmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=00FF41"></a>
-</div>
-
-## `> EXECUTING: current_projects.sh`
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🚨 CyberBot</h3>
-      <p><code>AI-driven conversational agent with 94% accuracy in cybercrime classification</code></p>
-      <div align="center">
-        <img src="https://progress-bar.dev/85/?scale=100&title=Development&width=220&color=00FF41" alt="Progress Bar">
-      </div>
-    </td>
-    <td width="50%">
-      <h3>🛡️ DeepShield</h3>
-      <p><code>Next-gen detection system for deepfakes and AI-generated content</code></p>
-      <div align="center">
-        <img src="https://progress-bar.dev/73/?scale=100&title=Development&width=220&color=00FF41" alt="Progress Bar">
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⚖️ CrimeChain</h3>
-      <p><code>Blockchain-powered tamper-proof evidence management system</code></p>
-      <div align="center">
-        <img src="https://progress-bar.dev/67/?scale=100&title=Development&width=220&color=00FF41" alt="Progress Bar">
-      </div>
-    </td>
-    <td width="50%">
-      <h3>🧠 UniComm</h3>
-      <p><code>Multimodal accessibility platform for sign language & braille translation</code></p>
-      <div align="center">
-        <img src="https://progress-bar.dev/91/?scale=100&title=Development&width=220&color=00FF41" alt="Progress Bar">
-      </div>
-    </td>
-  </tr>
-</table>
-
-## `> cat tech_stack.config`
-
-<div align="center">
-  
-### `// CORE TECHNOLOGIES`
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=00FF41)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=00FF41)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikit-learn&logoColor=00FF41)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=00FF41)
-
-### `// WEB & DEPLOYMENT`
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=00FF41)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00FF41)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF41)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00FF41)
-
-### `// AI & CLOUD`
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=flat-square&logo=huggingface&logoColor=00FF41)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=00FF41)
-![GCP](https://img.shields.io/badge/Google_Cloud-000000?style=flat-square&logo=google-cloud&logoColor=00FF41)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=00FF41)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-000000?style=flat-square&logo=google&logoColor=00FF41)
-
-</div>
-
-## `> SKILL_MATRIX:`
-
-```
-┌────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                │
-│  [█████████░] AI Architecture & LLM Development                                │
-│                                                                                │
-│  [████████░░] Computer Vision & Image Processing                               │
-│                                                                                │
-│  [██████████] Machine Learning & Data Science                                  │
-│                                                                                │
-│  [███████░░░] Blockchain & Decentralized Systems                               │
-│                                                                                │
-│  [████████░░] MLOps & Deployment                                               │
-│                                                                                │
-└────────────────────────────────────────────────────────────────────────────────┘
-```
-
-## `> ACHIEVEMENTS.log`
-
-<div align="center">
-  
-| 🏆 ACHIEVEMENT | 🔑 KEY DETAILS |
-|-------------|-------------|
-| **Hackathon Champion** | Built production-ready AI solutions in under 48 hours |
-| **Innovation Fellow** | Selected for Road to Hacker House & ADI: Buildathon |
-| **Speaker** | Featured at Student Tribe Meet, T-Hub Hyderabad on "AI Ethics & Innovation" |
-| **Competition Finalist** | Deepfake Detection Challenge & AI-for-Good Global Initiative |
-| **Impact Award** | ZeroWasteAI project recognized for reducing food waste by 30% |
-
-</div>
-
-## `> GITHUB ANALYTICS:`
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amruthjakku&theme=github_dark" width="100%" />
-  
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=amruthjakku&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&icon_color=00FF41&title_color=00FF41&text_color=00FF41" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amruthjakku&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" alt="GitHub Streak Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-## `> MEMORY.allocation`
-
-<div align="center">
-  <h3>Current Learning Processes:</h3>
-  
-```mermaid
+<!-- COSMIC THEME: A mind-blowing GitHub profile with advanced animations --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Jakku%20Amruth&fontColor=ffffff&color=0:8A2387,50:E94057,100:F27121&stroke=3A1C71&strokeWidth=3&animation=fadeIn" width="100%"/> <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=E94057&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%E2%9A%A1+Innovation+Architect+%E2%9A%A1+MS+Candidate;Building+the+future+with+code+%E2%9C%A8+data+%E2%9C%A8+algorithms;Blending+creativity+with+technical+precision;Pushing+boundaries+of+what's+possible+with+AI" alt="Typing SVG" /></a> <br> <a href="https://www.linkedin.com/in/amruthjakku/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a> <a href="https://devpost.com/amruthjakku"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" /></a> <a href="mailto:amruthjakku@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logo=About.me&logoColor=white" /></a> </div> <br> <!-- ANIMATED DIVIDER --> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow" width="100%"> </p> <table> <tr> <td> <h2>🌌 The Vision</h2> <p>Building intelligent systems that transform how we interact with technology. I combine AI, data, and human-centered design to create solutions that solve real problems.</p> <p>My mission is to develop ethical, accessible, and innovative AI that expands human capabilities while promoting safety and inclusion.</p> <br> <h3>💫 Current Orbit</h3> <p>MS in AI & Machine Learning (in progress)</p> <p>Specializing in LLMs, Computer Vision, and AI Safety</p> <p>Hackathon enthusiast & open-source contributor</p> </td> <td width="40%"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF"/> </td> </tr> </table> <!-- 3D PROJECT SHOWCASE --> <h2 align="center">🚀 Breakthrough Projects</h2> <div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" alt="solar"> </div> <!-- GLASSMORPHISM CARDS --> <div class="projects-container" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 20px;"> <!-- PROJECT 1 --> <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 10px; padding: 20px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);"> <h3>🚨 CyberBot</h3> <p><i>AI-powered cybercrime reporting & analysis system</i></p> <div style="display: flex; margin: 10px 0;"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square&logo=natural-language-processing&logoColor=white" /> </div> <ul> <li>94% accuracy in incident classification</li> <li>70% reduction in reporting time</li> <li>Deployed with law enforcement agencies</li> </ul> <!-- ANIMATED PROGRESS BAR --> <div style="background: rgba(255,255,255,0.1); border-radius: 5px; height: 10px; width: 100%; margin: 10px 0;"> <div style="background: linear-gradient(90deg, #F27121, #E94057, #8A2387); border-radius: 5px; height: 10px; width: 85%;"></div> </div> <p align="right"><b>85% Complete</b></p> </div> <!-- PROJECT 2 --> <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 10px; padding: 20px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);"> <h3>🛡️ DeepShield</h3> <p><i>Advanced deepfake & AI content detection platform</i></p> <div style="display: flex; margin: 10px 0;"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Computer_Vision-4B0082?style=flat-square&logo=opencv&logoColor=white" /> </div> <ul> <li>Multi-modal detection system</li> <li>Real-time monitoring capabilities</li> <li>Featured in AI safety competitions</li> </ul> <!-- ANIMATED PROGRESS BAR --> <div style="background: rgba(255,255,255,0.1); border-radius: 5px; height: 10px; width: 100%; margin: 10px 0;"> <div style="background: linear-gradient(90deg, #F27121, #E94057, #8A2387); border-radius: 5px; height: 10px; width: 73%;"></div> </div> <p align="right"><b>73% Complete</b></p> </div> <!-- PROJECT 3 --> <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 10px; padding: 20px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);"> <h3>⚖️ CrimeChain</h3> <p><i>Blockchain-powered evidence management</i></p> <div style="display: flex; margin: 10px 0;"> <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Arweave-222222?style=flat-square&logo=arweave&logoColor=white" /> <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white" /> </div> <ul> <li>Tamper-proof evidence chain</li> <li>60% reduced processing time</li> <li>Advanced cryptographic verification</li> </ul> <!-- ANIMATED PROGRESS BAR --> <div style="background: rgba(255,255,255,0.1); border-radius: 5px; height: 10px; width: 100%; margin: 10px 0;"> <div style="background: linear-gradient(90deg, #F27121, #E94057, #8A2387); border-radius: 5px; height: 10px; width: 67%;"></div> </div> <p align="right"><b>67% Complete</b></p> </div> <!-- PROJECT 4 --> <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 10px; padding: 20px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);"> <h3>🧠 UniComm</h3> <p><i>Universal accessibility communication platform</i></p> <div style="display: flex; margin: 10px 0;"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white" /> </div> <ul> <li>Real-time sign language translation</li> <li>8+ sign language dialects supported</li> <li>Award-winning accessibility solution</li> </ul> <!-- ANIMATED PROGRESS BAR --> <div style="background: rgba(255,255,255,0.1); border-radius: 5px; height: 10px; width: 100%; margin: 10px 0;"> <div style="background: linear-gradient(90deg, #F27121, #E94057, #8A2387); border-radius: 5px; height: 10px; width: 91%;"></div> </div> <p align="right"><b>91% Complete</b></p> </div> </div> <!-- TECH COSMOS --> <h2 align="center">🌠 Tech Cosmos</h2> <div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="aqua"> </div> <!-- CREATE 3D INTERACTIVE TECH STACK --> <div align="center"> <!-- ANIMATED 3D GALAXY OF SKILLS --> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,nextjs,typescript,fastapi,docker,aws,gcp,kubernetes,opencv,solidity,graphql,mongodb,postgresql&perline=8" /> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- SKILLS RADAR CHART --> <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=amruthjakku&skills=AI,MachineLearning,NLP,ComputerVision,React,Web,Blockchain,Cloud&width=820&bg=transparent" width="80%" /> </div> <!-- PARTICLE ACHIEVEMENTS --> <h2 align="center">🏆 Cosmic Achievements</h2> <div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colored"> </div> <!-- ACHIEVEMENT CARDS --> <div align="center"> <table> <tr> <td align="center" width="33%"> <div style="background: linear-gradient(135deg, #8A2387, #E94057, #F27121); border-radius: 10px; padding: 20px;"> <img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="60"/> <h3>Hackathon Champion</h3> <p>Built complete AI solutions in under 48 hours - recognized by judges for technical innovation.</p> </div> </td> <td align="center" width="33%"> <div style="background: linear-gradient(135deg, #8A2387, #E94057, #F27121); border-radius: 10px; padding: 20px;"> <img src="https://img.icons8.com/fluency/96/000000/idea.png" width="60"/> <h3>Innovation Fellow</h3> <p>Selected for prestigious T-Hub AI Innovation Program from 2,000+ applicants nationwide.</p> </div> </td> <td align="center" width="33%"> <div style="background: linear-gradient(135deg, #8A2387, #E94057, #F27121); border-radius: 10px; padding: 20px;"> <img src="https://img.icons8.com/fluency/96/000000/microphone.png" width="60"/> <h3>Featured Speaker</h3> <p>AI Ethics & Innovation Summit - presented to 500+ industry professionals on responsible AI.</p> </div> </td> </tr> </table> </div> <!-- GITHUB STATS CONSTELLATION --> <h2 align="center">⭐ GitHub Constellation</h2> <div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="fire"> </div> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=amruthjakku&bg_color=0d1117&color=e05397&line=e05397&point=ffffff&area=true&hide_border=true" width="90%" alt="activity graph"> </p> <p align="center"> <a href="https://github.com/amruthjakku"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amruthjakku&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=ffffff&icon_color=e05397&title_color=e05397"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amruthjakku&layout=compact&langs_count=7&theme=radical&bg_color=0D1117&text_color=ffffff&icon_color=e05397&title_color=e05397"/> </a> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=amruthjakku&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="streak stats" width="60%"/> </p> <!-- LEARNING ORBIT --> <h2 align="center">🔭 Learning Orbit</h2> <div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" alt="dark"> </div> <!-- INTERACTIVE MIND MAP --> <div align="center">
+mermaid
 mindmap
-  root((Jakku's Learning))
-    Advanced LLM Techniques
-      Fine-tuning
-      Alignment
-      Prompt Engineering
-    MLOps
-      CI/CD for ML
-      Model Monitoring
-      A/B Testing
-    Decentralized AI
-      Federated Learning
-      Blockchain Integration
-      Private AI
-    Multimodal Systems
+  root((AI Mastery))
+    Advanced Models
+      LLM Fine-tuning
+      Reinforcement Learning
+      Neural Architecture Search
+    AI Ethics
+      Alignment & Safety
+      Bias Mitigation
+      Explainable AI
+    Systems Design
+      MLOps & CI/CD
+      Scalable Architecture
+      Edge Deployment
+    Multimodal AI
       Vision-Language
       Audio Processing
-      Gesture Recognition
-```
-</div>
+      Cross-modal Transfer
+</div> <!-- PUBLICATIONS --> <h2 align="center">📚 Research Nebula</h2> <div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow"> </div> <table> <tr> <td> <div style="display: flex; align-items: center;"> <img src="https://img.icons8.com/color/48/000000/document.png" width="40" style="margin-right: 15px;"/> <div> <h3>Ethical Frameworks for AI in Law Enforcement</h3> <p>International Journal of AI Ethics | 2024</p> <p>Exploring the balance between security and privacy in AI-powered crime detection systems.</p> </div> </div> </td> </tr> <tr> <td> <div style="display: flex; align-items: center;"> <img src="https://img.icons8.com/color/48/000000/document.png" width="40" style="margin-right: 15px;"/> <div> <h3>Breaking Communication Barriers: AI for Accessibility</h3> <p>ACM Conference on Accessible Technologies | 2024</p> <p>Novel approaches to accessibility technology for hearing impaired communities.</p> </div> </div> </td> </tr> <tr> <td> <div style="display: flex; align-items: center;"> <img src="https://img.icons8.com/color/48/000000/document.png" width="40" style="margin-right: 15px;"/> <div> <h3>Blockchain and AI: A Framework for Evidence Integrity</h3> <p>IEEE Security & Privacy | 2023</p> <p>Implementing tamper-proof systems for sensitive data in law enforcement.</p> </div> </div> </td> </tr> </table> <!-- CONNECT --> <h2 align="center">🌌 Interstellar Contact</h2> <div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" alt="solar"> </div> <div align="center"> <p>I'm always open to collaborations on innovative AI projects, research opportunities, hackathons, and building technology that matters.</p> <a href="mailto:amruthjakku@example.com"> <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<br><br>
 
-## `> TERMINAL`
-
-<div align="center">
-  <h3>Connect with me:</h3>
-  <p>
-    <pre style="background-color: #000; color: #00FF41; padding: 15px;">
-  $ connect --with jakku.amruth@example.com
-  
-  > Initializing connection...
-  > Open for collaboration on innovative AI projects
-  > Interested in hackathons, research, and building things that matter
-  > Connection established. Ready to build the future together.
-    </pre>
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3cb371&height=120&section=footer&text=END_OF_TRANSMISSION&fontSize=30&fontColor=00FF41&animation=fadeIn&fontAlignY=80" />
-  
-  <h4>「 There is no spoon. Only code that bends reality. 」</h4>
-</div>
+<p> <i>"The best way to predict the future is to create it."</i> </p> <img src="https://count.getloli.com/get/@:amruthjakku?theme=rule34" alt="visitor counter" /> </div> <!-- FOOTER --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=&fontAlign=80&fontAlignY=40&color=gradient&customColorList=24" width="100%"> </div>
