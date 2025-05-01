@@ -4,7 +4,7 @@
   
 ![Digital Rain Line](https://capsule-render.vercel.app/api?type=waving&color=0:3cb371,100:000000&height=200&section=header&text=JAKKU%20AMRUTH&fontSize=65&fontColor=00FF41&animation=fadeIn&fontAlignY=35)
 
-<img src="https://readme-typing-svg.demolab.com?font=Matrix&size=32&duration=2500&pause=300&color=00FF41&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Reality+Architect;Digital+Innovation+Hacker;MS+Candidate;System+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Matrix&size=32&duration=2500&pause=300&color=00FF41&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Reality+Architect;Digital+Innovation+Hacker;System+Builder" alt="Typing SVG" />
 
 </div>
 
@@ -21,9 +21,9 @@
 ```
 
 <div align="center">
-  <a href="https://linkedin.com/in/jakkuamruth"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"></a>
-  <a href="https://devpost.com/jakkuamruth"><img src="https://img.shields.io/badge/-DevPost-000000?style=for-the-badge&logo=devpost&logoColor=00FF41"></a>
-  <a href="mailto:jakku.amruth@example.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"></a>
+  <a href="https://linkedin.com/in/amruthjakku"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"></a>
+  <a href="https://devpost.com/amruthjakku"><img src="https://img.shields.io/badge/-DevPost-000000?style=for-the-badge&logo=devpost&logoColor=00FF41"></a>
+  <a href="mailto:amruthjakku@egmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=00FF41"></a>
 </div>
 
@@ -126,15 +126,15 @@
 ## `> GITHUB ANALYTICS:`
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakkuamruth&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amruthjakku&theme=github_dark" width="100%" />
   
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=jakkuamruth&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&icon_color=00FF41&title_color=00FF41&text_color=00FF41" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=amruthjakku&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&icon_color=00FF41&title_color=00FF41&text_color=00FF41" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakkuamruth&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" alt="GitHub Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amruthjakku&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" alt="GitHub Streak Stats" />
       </td>
     </tr>
   </table>
