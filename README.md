@@ -93,7 +93,7 @@ I build intelligent systems at the intersection of AI and human needs. By combin
 - Multimodal AI Systems (vision-language models)
 - Trustworthy AI & Formal Verification Methods
 - Quantum Computing for Machine Learning
-
+ 
 ## 🌟 Let's Connect
 
 <div align="center">
