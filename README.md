@@ -17,7 +17,7 @@ I build intelligent systems at the intersection of AI and human needs. By combin
 
 ## 💫 Current Focus
 
-- 🎓 **MS in AI & Machine Learning** at Georgia Tech
+- 🎓 **DSA , AI Projects**
 - 🔬 Leading research in **LLM alignment**, **Computer Vision**, and **AI Safety**
 - 🚀 Building an open-source platform for ethical AI deployment
 - 🌱 Mentoring the next generation of AI engineers
@@ -28,12 +28,11 @@ I build intelligent systems at the intersection of AI and human needs. By combin
 
 ## 🚀 Signature Projects
 
-| Project | Description | Technologies | Impact |
-|---------|-------------|--------------|--------|
-| 🛡️ **DeepShield** | Advanced deepfake & synthetic content detection platform | PyTorch, OpenCV, Transformers | 150K+ authentications monthly |
-| 🧠 **UniComm** | Accessibility platform bridging communication barriers | React, MediaPipe, TensorFlow | Deployed in 12+ educational institutions |
-| 🔍 **CrimeChain** | Blockchain-based evidence management system | Solidity, IPFS, Zero-knowledge proofs | Piloted with 3 law enforcement agencies |
-| 🌐 **NeuralNexus** | Federated learning framework for privacy-preserving AI | PyTorch, Flower, Differential Privacy | Open-source: 1.2K+ GitHub stars |
+| Project | Description | Technologies | 
+|---------|-------------|--------------|
+| 🛡️ **DeepShield** | Advanced deepfake & synthetic content detection platform | PyTorch, OpenCV, Transformers | 
+| 🧠 **UniComm** | Accessibility platform bridging communication barriers | React, MediaPipe, TensorFlow | 
+| 🔍 **CrimeChain** | Blockchain-based evidence management system | Solidity, IPFS, Zero-knowledge proofs | 
 
 ## 🛠️ Tech Stack
 
@@ -57,14 +56,6 @@ I build intelligent systems at the intersection of AI and human needs. By combin
 - **Full-Stack Development**: React, Node.js, MongoDB, PostgreSQL
 - **AI Ethics**: Alignment, bias mitigation, explainable AI
 
-## 🏆 Key Achievements
-
-- **AI Innovation Award** at International Developer Challenge 2024
-- **Top 5 Finalist** in NVIDIA AI Research Competition
-- **Innovation Fellow** at T-Hub AI Accelerator (selected from 2,000+ applicants)
-- **Featured Speaker** at AI Ethics & Innovation Summit (500+ industry professionals)
-- **Published Researcher** with papers in IEEE Security & Privacy and ACM conferences
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -76,16 +67,6 @@ I build intelligent systems at the intersection of AI and human needs. By combin
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amruthjakku&bg_color=0D1117&color=D76D77&line=FFAF7B&point=ffffff&area=true&hide_border=true" width="95%" />
 </div>
 
-## 📚 Featured Research
-
-- **"Ethical Frameworks for AI in Law Enforcement"**  
-  *International Journal of AI Ethics (2024)*
-  
-- **"Multimodal Learning for Accessibility: Breaking Communication Barriers"**  
-  *ACM Conference on Accessible Technologies (2024)*
-  
-- **"Zero-Knowledge Proofs for Evidence Integrity in Digital Forensics"**  
-  *IEEE Security & Privacy (2023)*
 
 ## 🔭 Current Learning Journey
 
