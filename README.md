@@ -110,5 +110,3 @@ I build intelligent systems at the intersection of AI and human needs. By combin
 </div>
 
 ![Visitor Count](https://count.getloli.com/get/@:amruthjakku?theme=rule34)
-
-# <img src="https://komarev.com/ghpvc/?username=amruthjakku&label=Profile%20Views&color=D76D77&style=flat" alt="Profile Views" />
