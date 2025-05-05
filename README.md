@@ -1,127 +1,112 @@
-<!-- COSMIC NEBULIX THEME: Advanced animated GitHub profile with 3D effects and interactive elements -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Jakku%20Amruth&fontColor=ffffff&color=0:8A2387,50:E94057,100:F27121&stroke=3A1C71&strokeWidth=3&animation=fadeIn&desc=Innovation%20Architect%20%7C%20AI%20Pioneer%20%7C%20Future%20Builder&descAlignY=70&descSize=18" width="100%" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=E94057&center=true&vCenter=true&width=600&lines=AI+Engineer+⚡+Innovation+Architect;Building+the+future+with+code+✨+data+✨+algorithms;Blending+creativity+with+technical+precision;Pushing+boundaries+of+what's+possible+with+AI" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Jakku%20Amruth&fontColor=ffffff&color=0:3A1C71,50:D76D77,100:FFAF7B&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Innovation%20Architect%20%7C%20Tech%20Visionary&descAlignY=55&descSize=18" width="100%" />
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=D76D77&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+that+matter;AI+%2B+Computer+Vision+%2B+NLP+Specialist;Creating+tomorrow's+technology+today;Ethical+AI+advocate+and+lifelong+learner)](https://git.io/typing-svg)
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amruthjakku/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://devpost.com/amruthjakku" target="_blank"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" /></a>
   <a href="mailto:amruthjakku@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+  <a href="https://amruthjakku.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logo=about.me&logoColor=white" /></a>
 </p>
 
----
+## 🌌 Vision & Mission
 
-## 🌌 The Vision
+I build intelligent systems at the intersection of AI and human needs. By combining deep technical expertise with human-centered design, I create solutions that solve meaningful problems across industries. My work focuses on developing ethical, accessible AI that enhances human capabilities while prioritizing safety and inclusion.
 
-Building intelligent systems that transform how we interact with technology.  
-I combine AI, data, and human-centered design to create solutions that solve real problems.  
-My mission is to develop ethical, accessible, and innovative AI that expands human capabilities while promoting safety and inclusion.
+## 💫 Current Focus
 
----
-
-## 💫 Current Orbit
-
-- 🎓 **MS in AI & Machine Learning** (in progress)  
-- 🔍 Specializing in **LLMs**, **Computer Vision**, and **AI Safety**  
-- 🚀 Hackathon enthusiast & open-source contributor  
+- 🎓 **MS in AI & Machine Learning** at Georgia Tech
+- 🔬 Leading research in **LLM alignment**, **Computer Vision**, and **AI Safety**
+- 🚀 Building an open-source platform for ethical AI deployment
+- 🌱 Mentoring the next generation of AI engineers
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,0.5);" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius:10px;" />
 </div>
 
----
+## 🚀 Signature Projects
 
-## 🚀 Breakthrough Projects
+| Project | Description | Technologies | Impact |
+|---------|-------------|--------------|--------|
+| 🛡️ **DeepShield** | Advanced deepfake & synthetic content detection platform | PyTorch, OpenCV, Transformers | 150K+ authentications monthly |
+| 🧠 **UniComm** | Accessibility platform bridging communication barriers | React, MediaPipe, TensorFlow | Deployed in 12+ educational institutions |
+| 🔍 **CrimeChain** | Blockchain-based evidence management system | Solidity, IPFS, Zero-knowledge proofs | Piloted with 3 law enforcement agencies |
+| 🌐 **NeuralNexus** | Federated learning framework for privacy-preserving AI | PyTorch, Flower, Differential Privacy | Open-source: 1.2K+ GitHub stars |
 
-| Project     | Description                                      | Tech                              | Progress |
-|-------------|--------------------------------------------------|-----------------------------------|----------|
-| 🚨 CyberBot  | AI-powered cybercrime reporting & analysis system | TensorFlow · FastAPI · NLP        | 85%      |
-| 🛡️ DeepShield | Advanced deepfake & AI content detection platform | PyTorch · OpenCV · Computer Vision | 73%      |
-| ⚖️ CrimeChain | Blockchain-powered evidence management          | Solidity · Arweave · Web3         | 67%      |
-| 🧠 UniComm   | Universal accessibility communication platform   | React · Next.js · MediaPipe       | 91%      |
-
----
-
-## 🌠 Tech Cosmos
-
-![Skills Icons](https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,nextjs,typescript,fastapi,docker,aws,gcp,kubernetes,opencv,solidity,graphql,mongodb,postgresql&perline=8)
-
-![Skills Radar](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=amruthjakku&skills=AI,MachineLearning,NLP,ComputerVision,React,Web,Blockchain,Cloud&width=820&bg=transparent)
-
-#### Core Expertise
-- **AI & Machine Learning:** 95%  
-- **Computer Vision:** 90%  
-- **Natural Language Processing:** 88%  
-- **Full-Stack Development:** 85%  
-- **Cloud Architecture:** 82%  
-
----
-
-## 🏆 Cosmic Achievements
-
-- **Hackathon Champion**  
-  Built complete AI solutions in under 48 hours — recognized by judges for technical innovation.
-
-- **Innovation Fellow**  
-  Selected for T-Hub AI Innovation Program from 2,000+ applicants nationwide.
-
-- **Featured Speaker**  
-  Presented on AI Ethics & Innovation Summit to 500+ industry professionals.
-
----
-
-## ⭐ GitHub Constellation
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amruthjakku&bg_color=0d1117&color=e05397&line=e05397&point=ffffff&area=true&hide_border=true)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amruthjakku&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=ffffff&icon_color=e05397&title_color=e05397" width="280" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amruthjakku&layout=compact&langs_count=7&theme=radical&bg_color=0D1117&text_color=ffffff&icon_color=e05397&title_color=e05397" width="280" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amruthjakku&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" width="600" />
-</p>
-
----
-
-## 🔭 Learning Orbit
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 </div>
 
-- **Advanced Models:** LLM Fine-tuning · Reinforcement Learning · Neural Architecture  
-- **AI Ethics:** Alignment & Safety · Bias Mitigation · Explainable AI  
-- **Systems Design:** MLOps & CI/CD · Scalable Architecture · Edge Deployment  
-- **Multimodal AI:** Vision-Language · Audio Processing · Cross-modal Transfer  
+### Expertise Areas
+- **Machine Learning & AI**: Model development, fine-tuning, MLOps
+- **Computer Vision**: Object detection, image segmentation, visual recognition
+- **NLP**: Large language models, sentiment analysis, machine translation
+- **Full-Stack Development**: React, Node.js, MongoDB, PostgreSQL
+- **AI Ethics**: Alignment, bias mitigation, explainable AI
 
----
+## 🏆 Key Achievements
 
-## 📚 Research Nebula
+- **AI Innovation Award** at International Developer Challenge 2024
+- **Top 5 Finalist** in NVIDIA AI Research Competition
+- **Innovation Fellow** at T-Hub AI Accelerator (selected from 2,000+ applicants)
+- **Featured Speaker** at AI Ethics & Innovation Summit (500+ industry professionals)
+- **Published Researcher** with papers in IEEE Security & Privacy and ACM conferences
 
-- **Ethical Frameworks for AI in Law Enforcement**  
-  *International Journal of AI Ethics | 2024*  
-  Exploring security vs. privacy in AI-powered crime detection.
+## 📊 GitHub Analytics
 
-- **Breaking Communication Barriers: AI for Accessibility**  
-  *ACM Conference on Accessible Technologies | 2024*  
-  Novel approaches to technology for hearing-impaired communities.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amruthjakku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=D76D77&title_color=D76D77" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amruthjakku&theme=tokyonight&hide_border=true&background=0D1117&ring=D76D77&fire=FFAF7B&currStreakLabel=D76D77" width="49%" />
+</p>
 
-- **Blockchain and AI: A Framework for Evidence Integrity**  
-  *IEEE Security & Privacy | 2023*  
-  Tamper-proof systems for sensitive law enforcement data.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amruthjakku&bg_color=0D1117&color=D76D77&line=FFAF7B&point=ffffff&area=true&hide_border=true" width="95%" />
+</div>
 
----
+## 📚 Featured Research
 
-## 🌌 Interstellar Contact
+- **"Ethical Frameworks for AI in Law Enforcement"**  
+  *International Journal of AI Ethics (2024)*
+  
+- **"Multimodal Learning for Accessibility: Breaking Communication Barriers"**  
+  *ACM Conference on Accessible Technologies (2024)*
+  
+- **"Zero-Knowledge Proofs for Evidence Integrity in Digital Forensics"**  
+  *IEEE Security & Privacy (2023)*
 
-📬 amruthjakku@gmail.com  
-🌐 [Portfolio](https://yourwebsite.com)  
-💬 [LinkedIn](https://www.linkedin.com/in/amruthjakku/)  
+## 🔭 Current Learning Journey
 
-> “The best way to predict the future is to create it.”
+- Advanced Reinforcement Learning from Human Feedback
+- Multimodal AI Systems (vision-language models)
+- Trustworthy AI & Formal Verification Methods
+- Quantum Computing for Machine Learning
 
-![Visitor Count](https://count.getloli.com/get/@:amruthjakku?theme=rule34)
+## 🌟 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/amruthjakku/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://twitter.com/amruthjakku"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+  <a href="mailto:amruthjakku@example.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+  <a href="https://amruthjakku.dev"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
+</div>
+
+> "The best way to predict the future is to create it with compassion, ethics, and technical excellence."
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:3A1C71,50:D76D77,100:FFAF7B&reversal=true" width="100%"/>
+</div>
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=amruthjakku.amruthjakku)
