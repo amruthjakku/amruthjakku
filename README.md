@@ -109,4 +109,6 @@ I build intelligent systems at the intersection of AI and human needs. By combin
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:3A1C71,50:D76D77,100:FFAF7B&reversal=true" width="100%"/>
 </div>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=amruthjakku.amruthjakku)
+![Visitor Count](https://count.getloli.com/get/@:amruthjakku?theme=rule34)
+
+<img src="https://komarev.com/ghpvc/?username=amruthjakku&label=Profile%20Views&color=D76D77&style=flat" alt="Profile Views" />
