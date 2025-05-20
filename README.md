@@ -80,7 +80,7 @@ I build intelligent systems at the intersection of AI and human needs. By combin
 <div align="center">
   <a href="https://www.linkedin.com/in/amruthjakku/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://twitter.com/amruthjakku"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
-  <a href="mailto:amruthjakku@example.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+  <a href="mailto:amruthjakku@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
   <a href="https://amruthjakku.dev"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
 </div>
 
