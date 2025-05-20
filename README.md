@@ -20,7 +20,7 @@ I build intelligent systems at the intersection of AI and human needs. By combin
 - 🎓 **DSA , AI Projects**
 - 🔬 Leading research in **LLM alignment**, **Computer Vision**, and **AI Safety**
 - 🚀 Building an open-source platform for ethical AI deployment
-- 🌱 Mentoring the next generation of AI engineers
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius:10px;" />
