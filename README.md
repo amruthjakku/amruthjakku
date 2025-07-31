@@ -62,14 +62,12 @@ I build intelligent systems at the intersection of AI and human needs. By combin
   <img src="https://github-readme-stats.vercel.app/api?username=amruthjakku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=D76D77&title_color=D76D77" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=amruthjakku&theme=tokyonight&hide_border=true&background=0D1117&ring=D76D77&fire=FFAF7B&currStreakLabel=D76D77" width="49%" />
 </p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amruthjakku&bg_color=0D1117&color=D76D77&line=FFAF7B&point=ffffff&area=true&hide_border=true" width="95%" />
-</div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amruthjakku&bg_color=0D1117&color=D76D77&line=FFAF7B&point=ffffff&area=true&hide_border=true" width="95%" />
 </div>
 
+<img src="https://streak-stats.demolab.com/?user=amruthjakku&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" />
+</p>
 
 ## 🔭 Current Learning Journey
 
