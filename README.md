@@ -60,7 +60,7 @@ I build intelligent systems at the intersection of AI and human needs. By combin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amruthjakku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=D76D77&title_color=D76D77" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amruthjakku&theme=tokyonight&hide_border=true&background=0D1117&ring=D76D77&fire=FFAF7B&currStreakLabel=D76D77" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=amruthjakku&theme=tokyonight&hide_border=true&background=0D1117&ring=D76D77&fire=FFAF7B&currStreakLabel=D76D77" width="49%" />
 </p>
 
 <div align="center">
