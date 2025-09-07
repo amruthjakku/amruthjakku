@@ -5,10 +5,10 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amruthjakku/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/amruth-jakku/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://devpost.com/amruthjakku" target="_blank"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" /></a>
   <a href="mailto:amruthjakku@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://amruthjakku.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+  <a href="https://amruthjakku.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logo=about.me&logoColor=white" /></a>
 </p>
 
 ## 🌌 Vision & Mission
@@ -28,11 +28,13 @@ I build intelligent systems at the intersection of AI and human needs. By combin
 
 ## 🚀 Signature Projects
 
-| Project | Description | Technologies | 
-|---------|-------------|--------------|
-| 🛡️ **DeepShield** | Advanced deepfake & synthetic content detection platform | PyTorch, OpenCV, Transformers | 
-| 🧠 **UniComm** | Accessibility platform bridging communication barriers | React, MediaPipe, TensorFlow | 
-| 🔍 **CrimeChain** | Blockchain-based evidence management system | Solidity, IPFS, Zero-knowledge proofs | 
+| Project | Description | Technologies |  
+|---------|-------------|--------------|  
+| 🧠 **CognitiveOS** | Personal AI-powered operating system acting as a second brain—autonomous agents, contextual memory, productivity dashboards, and real-time insights | Next.js, Node.js, MongoDB, LangChain, WebSockets, AI/ML APIs |  
+| 🌐 **InternLink** | Scalable intern–mentor management platform supporting 100k+ daily users with dashboards, performance analytics, and Google OAuth integration | Next.js, MongoDB, Chart.js, Google OAuth |  
+| 🇮🇳 **BharatVerse** | Cultural preservation platform enabling users to capture, create & contribute text, audio, image, and meme data across Indian languages | React Native, Firebase, Hugging Face, Whisper, FastAPI |  
+| 🛡️ **DeepShield** | Advanced deepfake & synthetic content detection platform with state-of-the-art AI for media authentication | PyTorch, OpenCV, Transformers |  
+
 
 ## 🛠️ Tech Stack
 
@@ -76,10 +78,10 @@ I build intelligent systems at the intersection of AI and human needs. By combin
 ## 🌟 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/amruthjakku/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/amruth-jakku/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://twitter.com/amruthjakku"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
   <a href="mailto:amruthjakku@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-  <a href="https://amruthjakku.dev"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
+  <a href="https://amruthjakku.github.io/portfolio/"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
 </div>
 
 > "The best way to predict the future is to create it with compassion, ethics, and technical excellence."
