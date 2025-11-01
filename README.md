@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Jakku%20Amruth&fontColor=ffffff&color=0:3A1C71,50:D76D77,100:FFAF7B&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%7C%20Innovation%20Architect%20%7C%20Tech%20Visionary&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Jakku%20Amruth&fontColor=ffffff&color=0:3A1C71,50:D76D77,100:FFAF7B&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Innovation%20Architect%20%7C%20Tech%20Visionary&descAlignY=55&descSize=18" width="100%" />
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=D76D77&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+that+matter;AI+%2B+Computer+Vision+%2B+NLP+Specialist;Creating+tomorrow's+technology+today;Ethical+AI+advocate+and+lifelong+learner)](https://git.io/typing-svg)
 </div>
