@@ -433,7 +433,7 @@ I design systems that **observe**, **remember**, **reason**, and **act** — qui
 
 <br>
 
-**100k+ Daily Users**
+**Scales upto 5k+ Daily Users**
 
 *Scalable intern-mentor management platform with dashboards, performance analytics & OAuth*
 
