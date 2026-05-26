@@ -60,7 +60,7 @@
 <br>
 
 <!--START_SECTION:readme-stats-->
-**🕒 I'm A Night 🦉**
+**🕒 I'm A Daywalker**
 
 ```text
 🌅 Morning                183 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94%
