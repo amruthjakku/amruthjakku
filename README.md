@@ -59,6 +59,11 @@
 
 <br>
 
+<!--START_SECTION:readme-stats-->
+<!--END_SECTION:readme-stats-->
+
+<br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amruthjakku&bg_color=ffffff&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" width="98%" />
 
 <br>
@@ -94,5 +99,6 @@
 <div align="center">
 
 ![Visitor Count](https://count.getloli.com/get/@:amruthjakku?theme=rule34)
+
 
 </div>
