@@ -55,10 +55,6 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amruthjakku&layout=compact&hide_border=true&bg_color=ffffff&title_color=6C63FF&text_color=333333" width="40%" />
-
-<br>
-
 <!--START_SECTION:readme-stats-->
 **🕒 I'm A Night 🦉**
 
