@@ -34,14 +34,6 @@ A personal AI operating layer. It sits above your digital world, accumulates und
 
 ---
 
-## Design Doctrine
-
-`Intelligence compounds` `Memory is leverage` `Context is power` `Silence is a feature`
-
-> "If a system needs constant input, it's unfinished."
-
----
-
 ## Stack
 
 **Core** — Python · TypeScript · FastAPI · Next.js · PyTorch · PostgreSQL · MongoDB
